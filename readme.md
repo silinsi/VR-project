@@ -1,3 +1,5 @@
+To get the whole project, refer to "project download.txt".
+
 To enable npc, please install the following package:
 https://github.com/readyplayerme/rpm-unity-sdk-core.git
 
